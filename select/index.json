@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "失戀無罪",
+  "base_artist": "A-Lin",
+  "createdAt": "2026-02-14T13:40:38.722954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "失戀無罪",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/01_失戀無罪_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "失戀無罪",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/02_失戀無罪_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "失戀無罪 (A-Lin 2013 Feel-Lin Live)",
+      "artist": "A-Lin",
+      "has_synced": false,
+      "path": "select/03_失戀無罪_(A-Lin_2013_Feel-Lin_Live)_A-Lin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "失戀無罪 A-Lin",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/04_失戀無罪_A-Lin_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "失戀無罪 (A-Lin 2013 Feel-Lin Live Ver.)",
+      "artist": "A-Lin",
+      "has_synced": false,
+      "path": "select/05_失戀無罪_(A-Lin_2013_Feel-Lin_Live_Ver.)_A-Lin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "失戀無罪 (Bonus Track)",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/06_失戀無罪_(Bonus_Track)_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "失戀無罪 (A-Lin 2013 Feel-Lin Live Ver.)",
+      "artist": "A-Lin 黃麗玲",
+      "has_synced": false,
+      "path": "select/07_失戀無罪_(A-Lin_2013_Feel-Lin_Live_Ver.)_A-Lin_黃麗玲.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "失戀無罪",
+      "artist": "A-Lin",
+      "has_synced": false,
+      "path": "select/pl_01_失戀無罪_A-Lin.txt"
+    }
+  ]
+}
